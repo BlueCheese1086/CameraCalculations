@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Kondo/Downloads/opencv/build/java/opencv-401.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kondo/Downloads/cscore-jni-2019.2.1-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kondo/Downloads/ntcore-java-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kondo/Downloads/ntcore-jni-4.0.0-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kondo/Downloads/wpiutil-java-3.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
